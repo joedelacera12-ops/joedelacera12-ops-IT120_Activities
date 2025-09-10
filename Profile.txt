@@ -5,3 +5,9 @@ Gender:Male
 Age:24
 Birthday: May 12, 2001
 Contacts: 09518815902
+Birth of Place: Libertad,Butuan City 
+Religion: Roman Catholic
+Father's Name: Jose G. Acera
+Occupation: Retired Security Guard
+Mother's Name: Nenita J. Acera
+Occupation: Deceased
